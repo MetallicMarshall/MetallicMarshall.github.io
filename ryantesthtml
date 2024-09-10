@@ -4,7 +4,7 @@
         RPi header
     </head>
     <body>
-        <h1>Test Heading for me</h1>
+        <h1>Test Heading for me, from me</h1>
         <p>This is stuff that was committed to the repo from the Raspberry Pi!</p>
     </body>
 </html>
